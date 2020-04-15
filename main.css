@@ -137,6 +137,13 @@ a:hover{
   margin: 1.5rem auto;
 }
 
+.locations h2{
+	font-size:2rem;
+	font-family:'Great Vibes', cursive;
+  margin-top:1rem;
+  text-align:center;
+}
+
 .program{
   width:100vw;
   text-align:left;
@@ -146,6 +153,7 @@ a:hover{
 }
 
 .program h2{
+	font-size:2rem;
   font-family:'Great Vibes', cursive;
   margin-top:1rem;
   text-align:center;
@@ -157,6 +165,14 @@ a:hover{
 
 .program ul{
   letter-spacing:.025rem;
+}
+
+.gifts h2{
+	font-size:2rem;
+  font-family:'Great Vibes', cursive;
+  margin-top:0;
+	margin-bottom: 1rem;
+  text-align:center;
 }
 
 .gifts img{
@@ -175,7 +191,10 @@ a:hover{
 }
 
 .faq h2{
+  font-size:2rem;
+  font-family:'Great Vibes', cursive;
   margin-top:1rem;
+  text-align:center;
 }
 
 .faq p{
